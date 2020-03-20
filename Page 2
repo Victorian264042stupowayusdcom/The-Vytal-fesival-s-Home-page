@@ -1,0 +1,121 @@
+ <body>
+  <head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+</head><ul> 
+    <li><a href="#home">Home</a></li>
+    <li><a href="#classes">Vytal Festival's History</a> </li>
+    <li><a href="#cupcakes">Rules </a>  </li>
+    <li><a href="#cupcakes">Location</a></li>
+    <li><a href="#cupcakes">Vytal Festival's Dates</a>
+       
+  </ul>
+   <br>
+  <br>
+   <br>
+   <br>
+   
+  </div>  <div class="sticky"> 
+    <h1> Vytal Festival's history  <h1>
+  </div>
+      <br>
+      <center> <iframe width="560" height="315" src="https://www.youtube.com/embed/946xgoU4fkQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </center>
+
+    <br>
+       
+     <center> <div class="abs">
+    <p>The Vytal Festival was inaugurated following the end of the Great War, a destructive conflict taking place eighty years before the events of the series. Questions of individuality and self-expression were prominent reasons as to why the war was fought between the four kingdoms. Named after Vytal, a small island north of Vale where the treaty was signed, the Vytal Festival was created with the purpose of celebrating the diversity of the cultures of Remnant.
+
+The Festival has a unique symbol, fittingly consisting of a combination of all four kingdom's emblems in order to signify unity. </p><h2>
+      </div>
+</fixed>
+ 
+<style>
+
+
+body {
+  background-image: url("https://vignette3.wikia.nocookie.net/rwby/images/c/ce/V3e1_58.png/revision/latest?cb=20151027135735g");
+}
+  h1 {
+  font-size: 200%;
+  color:#543D2B ;
+  text-align: center;
+}
+
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 75%;
+  }
+
+td, th {
+  border: 5px #093A3E;
+  text-align: left;
+  padding: 5px;
+}
+
+tr:nth-child(even) {
+  background-color: ;
+}
+
+a {
+  color:#ACEDFF;
+  font-size: 150%;
+  text-decoration: none;
+}
+
+div.abs {
+  position: absolute;
+  background-color: #EFF8FF;
+  right: 270px;
+  top: 520px;
+  width: 760px;
+    height: 270px ;
+  border: 3px solid red;
+  text-align: center;}
+div.abs {
+  margin-top: 0px;
+  margin-bottom: 100px;
+  margin-right: 0px;
+  margin-left: 80px;
+}
+ 
+div.sticky {
+  position: sticky;
+  top: 0px;
+  background-color: white;
+  border: 10px solid gold;
+  text-align: center;
+}
+div.max {
+  border: 3px solid blue;
+  max-width: 500px;
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  position: fixed;
+  background-color:Darkred;
+  width: 100%;
+  top: 0;
+  left: 0;
+  
+}
+
+li {
+  display: inline;
+  float: left;
+width: 200px;
+padding: 5px;
+margin: 5px;}
+
+li a:hover {
+  background-color: #11;
+  color: green;
+  font-size: 20px;
+}
+</dtyle>
